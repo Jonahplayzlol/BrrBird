@@ -1,5 +1,5 @@
 # BrrBird
-A simple executable that replaces the .brr files in Super Mario World roms. Written in C++
+A simple executable that replaces the .brr files in Super Mario World roms. Written in C++. Requires a C++ compiler.
 ## Instructions
 Open the ROM file in binary mode.
 
